@@ -4,7 +4,6 @@ argh==0.26.2
 argon2-cffi==20.1.0
 arrow==0.13.1
 asn1crypto==1.4.0
-astroid==2.5
 async-generator==1.10
 atomicwrites==1.4.0
 attrs==20.3.0
@@ -48,10 +47,8 @@ entrypoints==0.3
 et-xmlfile==1.0.1
 fastcache==1.1.0
 filelock==3.0.12
-flake8==3.9.0
 fsspec==0.9.0
 future==0.18.2
-GDAL==2.3.3
 geojsonio==0.0.3
 geomagindices==1.4.0
 geopandas==0.6.1
@@ -65,8 +62,6 @@ HeapDict==1.0.1
 html5lib==1.1
 idna==2.10
 imagecodecs==2021.3.31
-imageio==2.9.0
-imageio-ffmpeg==0.4.3
 imagesize==1.2.0
 importlib-metadata==3.10.0
 inflection==0.5.1
@@ -95,7 +90,6 @@ jupyterlab==3.0.11
 jupyterlab-pygments==0.1.2
 jupyterlab-server==2.4.0
 jupyterlab-widgets==1.0.0
-jwcrypto==0.8
 keyring==22.3.0
 kiwisolver==1.3.1
 lazy-object-proxy==1.6.0
@@ -113,7 +107,6 @@ mkl-random==1.2.1
 mkl-service==2.3.0
 mock==4.0.3
 more-itertools==8.7.0
-mpld3==0.5.2
 mpmath==1.2.1
 msgpack==1.0.2
 msise00==1.10.0
@@ -135,7 +128,6 @@ numexpr==2.7.3
 numpy==1.20.3
 numpydoc==1.1.0
 olefile==0.46
-opencv-python==4.5.1.48
 openpyxl==3.0.7
 packaging==20.9
 pandas==1.2.4
@@ -151,8 +143,6 @@ patsy==0.5.1
 pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.2.0
-pip==21.0.1
 pkginfo==1.7.0
 pluggy==0.13.1
 ply==3.11
@@ -165,13 +155,11 @@ psutil==5.8.0
 ptyprocess==0.7.0
 py==1.10.0
 pyarrow==3.0.0
-pyatmos==1.2.1
 pycodestyle==2.6.0
 pycosat==0.6.3
 pycparser==2.20
 pycurl==7.43.0.5
 pydocstyle==6.0.0
-pydy==0.5.0
 pyerfa==1.7.2
 pyflakes==2.2.0
 Pygments==2.8.1
@@ -223,7 +211,6 @@ sniffio==1.2.0
 snowballstemmer==2.1.0
 sortedcollections==2.1.0
 sortedcontainers==2.3.0
-soupsieve==2.2.1
 Sphinx==3.5.4
 sphinxcontrib-applehelp==1.0.2
 sphinxcontrib-devhelp==1.0.2
@@ -232,7 +219,6 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
 sphinxcontrib-websupport==1.2.4
-spyder==5.0.0
 spyder-kernels==2.0.1
 SQLAlchemy==1.4.7
 statsmodels==0.12.2
