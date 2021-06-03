@@ -1,5 +1,4 @@
 # F1 Racing Line Calculator
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jerryvarghese1/F1_racinglines/main?filepath=Racing_Line_Calculator.ipynb)
 
 Calculates racing lines for various F1 Tracks
 
