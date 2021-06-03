@@ -9,6 +9,9 @@ Circuit JSON files acquired from https://github.com/bacinger/f1-circuits
 
 Racing Line calculator acquired from https://github.com/cdthompson/deepracer-k1999-race-lines
 
+## Disclaimer
+This is not pfficially associated with F1 or any other brands. This is simply a personal project.
+
 ## Use of Program
 The main parameters to enter are listed at the top. 
 - Modify 'iters' for a more accurate racing line: the HIGHER 'iters' is, the longer the program will take to run, but the more accurate the racing line will be. 
