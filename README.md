@@ -1,4 +1,4 @@
-# F1_racinglines
+# F1 Racing Line Calculator
 Calculates racing lines for various F1 Tracks
 
 Circuit JSON files acquired from https://github.com/bacinger/f1-circuits
