@@ -1,5 +1,5 @@
 scipy==1.6.2
-Shapely==1.6.4.post1
+shapely==1.6.4
 pandas==1.2.4
 numpy==1.20.3
 geojsonio==0.0.3
