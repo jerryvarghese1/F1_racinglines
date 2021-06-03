@@ -5,7 +5,7 @@
 Calculates racing lines for various F1 Tracks - launch in binder to see it in action!
 
 Circuit JSON files acquired from https://github.com/bacinger/f1-circuits
-- To check file names and track lengths, check the link
+- To check file names and track lengths, check the link above
 
 Racing Line calculator acquired from https://github.com/cdthompson/deepracer-k1999-race-lines
 
